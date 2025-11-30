@@ -129,4 +129,30 @@
         "yaml.schemas": {
                 "${workspaceFolder}/validation/module_schema.yaml": "${workspaceFolder}/src/modules/*/module.yaml"
         },
+        "python.autoComplete.extraPaths": [
+                "/home/netanel/workspaces/AirGroundRobo/install/px4_control_example/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/AirGroundRobo/install/px4_msgs/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/AirGroundRobo/install/air_ground_bot_bringup/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/ros2_ws/install/turtle_controller/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/ros2_ws/install/px4_control_example/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/ros2_ws/install/px4_msgs/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/ros2_ws/install/px4/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/ros2_ws/install/air_ground_bot_bringup/lib/python3.12/site-packages",
+                "/opt/ros/jazzy/lib/python3.12/site-packages"
+        ],
+        "python.analysis.extraPaths": [
+                "/home/netanel/workspaces/AirGroundRobo/install/px4_control_example/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/AirGroundRobo/install/px4_msgs/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/AirGroundRobo/install/air_ground_bot_bringup/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/ros2_ws/install/turtle_controller/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/ros2_ws/install/px4_control_example/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/ros2_ws/install/px4_msgs/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/ros2_ws/install/px4/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/ros2_ws/install/my_py_pkg/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/ros2_ws/install/my_robot_interfaces/lib/python3.12/site-packages",
+                "/home/netanel/workspaces/ros2_ws/install/air_ground_bot_bringup/lib/python3.12/site-packages",
+                "/opt/ros/jazzy/lib/python3.12/site-packages"
+        ],
 }
