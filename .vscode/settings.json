@@ -155,4 +155,5 @@
                 "/home/netanel/workspaces/ros2_ws/install/air_ground_bot_bringup/lib/python3.12/site-packages",
                 "/opt/ros/jazzy/lib/python3.12/site-packages"
         ],
+        "ROS2.distro": "jazzy",
 }
